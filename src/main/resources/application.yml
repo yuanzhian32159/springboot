@@ -1,0 +1,14 @@
+server:
+   port: 2221
+   path: /f
+person:
+  age: 13
+  name: lisi
+person: {age: 13,name: lisi}
+pert:
+ - a
+ - b
+ perrrrt: {a,b}
+ page:
+  name: lisi
+  page: {name: lisi,}
